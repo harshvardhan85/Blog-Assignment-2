@@ -1,0 +1,29 @@
+h1{
+    width: 700px;
+    background-color: rgb(235, 241, 141);
+    color: rgb(255, 8, 0);
+    text-align: center;
+    padding: 5px 10px 15px 20px;
+    margin: auto;
+    border: dotted;
+    border-radius: 10px;
+    
+}
+h2{
+    color: rgb(37, 25, 199);
+}
+img{
+    width: 450px;
+}
+p{
+    width: 700px;
+    background-color:rgb(236, 243, 203);
+    color: rgb(42, 6, 199);
+    margin: auto;
+    border: solid;
+    border-radius: 10px;
+}
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
